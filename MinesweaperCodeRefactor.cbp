@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Minesweaper" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Minesweaper" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Minesweaper" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="ButtonObject.cpp" />
+		<Unit filename="ButtonObject.h" />
+		<Unit filename="CustomDifficulty.cpp" />
+		<Unit filename="CustomDifficulty.h" />
+		<Unit filename="Game.cpp" />
+		<Unit filename="Game.h" />
+		<Unit filename="ImgObject.cpp" />
+		<Unit filename="ImgObject.h" />
+		<Unit filename="Main.cpp" />
+		<Unit filename="MainFunction.cpp" />
+		<Unit filename="MainFunction.h" />
+		<Unit filename="MainVariable.cpp" />
+		<Unit filename="MainVariable.h" />
+		<Unit filename="Menu.cpp" />
+		<Unit filename="Menu.h" />
+		<Unit filename="Quick_setting.cpp" />
+		<Unit filename="Quick_setting.h" />
+		<Unit filename="SetGameDifficulty.cpp" />
+		<Unit filename="SetGameDifficulty.h" />
+		<Unit filename="SetGameMode.cpp" />
+		<Unit filename="SetGameMode.h" />
+		<Unit filename="Setting.cpp" />
+		<Unit filename="Setting.h" />
+		<Unit filename="SquareObject.cpp" />
+		<Unit filename="SquareObject.h" />
+		<Unit filename="TextObject.cpp" />
+		<Unit filename="TextObject.h" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

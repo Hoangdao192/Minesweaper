@@ -1,0 +1,132 @@
+# depslib dependency file v1.0
+1617843334 source:e:\minesweapercoderefactor\main.cpp
+	"MainFunction.h"
+	"Menu.h"
+	"Game.h"
+	<fstream>
+	<sstream>
+	<string>
+
+1617290309 e:\minesweapercoderefactor\root_function.h
+	<iostream>
+	<SDL.h>
+	<SDL_ttf.h>
+	<string>
+	<cstdlib>
+	<ctime>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<windows.h>
+	<vector>
+	"MainVariable.h"
+	"ImgObject.h"
+
+1617843699 e:\minesweapercoderefactor\mainvariable.h
+	<iostream>
+	<SDL.h>
+	<SDL_ttf.h>
+	<string>
+	<cstdlib>
+	<ctime>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<windows.h>
+	<vector>
+	<sstream>
+
+1617290755 e:\minesweapercoderefactor\imgobject.h
+	"MainFunction.h"
+
+1617367497 e:\minesweapercoderefactor\menu.h
+	"MainFunction.h"
+	"ButtonObject.h"
+
+1617520031 e:\minesweapercoderefactor\mainfunction.h
+	"MainVariable.h"
+	"ImgObject.h"
+
+1617518351 e:\minesweapercoderefactor\game.h
+	"MainFunction.h"
+	<sstream>
+	<vector>
+	"SquareObject.h"
+	"ButtonObject.h"
+	"TextObject.h"
+	"SetGameDifficulty.h"
+
+1617845925 source:e:\minesweapercoderefactor\buttonobject.cpp
+	"ButtonObject.h"
+
+1617844967 e:\minesweapercoderefactor\buttonobject.h
+	"MainFunction.h"
+
+1617842914 source:e:\minesweapercoderefactor\mainfunction.cpp
+	"MainVariable.h"
+
+1617843981 source:e:\minesweapercoderefactor\squareobject.cpp
+	"SquareObject.h"
+
+1617366865 e:\minesweapercoderefactor\squareobject.h
+	"MainFunction.h"
+	"TextObject.h"
+
+1617290778 source:e:\minesweapercoderefactor\imgobject.cpp
+	"ImgObject.h"
+
+1617517409 source:e:\minesweapercoderefactor\menu.cpp
+	"Menu.h"
+
+1617844121 source:e:\minesweapercoderefactor\game.cpp
+	"Game.h"
+
+1617503178 e:\minesweapercoderefactor\textobject.h
+	"MainFunction.h"
+
+1617843626 source:e:\minesweapercoderefactor\textobject.cpp
+	"TextObject.h"
+
+1617350669 source:e:\minesweapercoderefactor\mainvariable.cpp
+	"MainVariable.h"
+
+1617369725 source:e:\minesweapercoderefactor\setting.cpp
+	"Setting.h"
+
+1617369149 e:\minesweapercoderefactor\setting.h
+	"MainFunction.h"
+	"ButtonObject.h"
+	"ImgObject.h"
+
+1617366597 source:e:\minesweapercoderefactor\quick_setting.cpp
+	"Quick_setting.h"
+
+1617366565 e:\minesweapercoderefactor\quick_setting.h
+	"MainFunction.h"
+	"ButtonObject.h"
+
+1617518402 e:\minesweapercoderefactor\setgamedifficulty.h
+	"MainFunction.h"
+	"ButtonObject.h"
+	"ImgObject.h"
+	"TextObject.h"
+	"CustomDifficulty.h"
+
+1617518247 source:e:\minesweapercoderefactor\setgamedifficulty.cpp
+	"SetGameDifficulty.h"
+
+1617505424 source:e:\minesweapercoderefactor\setgamemode.cpp
+	"SetGameMode.h"
+
+1617505369 e:\minesweapercoderefactor\setgamemode.h
+	"MainFunction.h"
+	"ButtonObject.h"
+	"ImgObject.h"
+
+1617523979 source:e:\minesweapercoderefactor\customdifficulty.cpp
+	"CustomDifficulty.h"
+
+1617518310 e:\minesweapercoderefactor\customdifficulty.h
+	"MainFunction.h"
+	"ButtonObject.h"
+	"ImgObject.h"
+	"TextObject.h"
+
