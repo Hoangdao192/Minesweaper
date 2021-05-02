@@ -15,7 +15,13 @@ Cách chơi:
 -	Chế độ đếm ngược: cơ bản giống với cổ điển nhưng bị giới hạn thời gian chờ
 	+ bạn sẽ thua nếu để thời gian đếm ngược kết thúc
 	+liên tục mở ô sẽ reset thời gian đếm ngược
-
+Luật chơi:
+	- Số điểm của 1 ô là số bom nằm xung quanh ô đó
+	- Ô không có điểm tức là không có bom xung quanh
+	- Chế độ cổ điển: Mở trúng ô bom sẽ thua, mở hết các ô không có bom sẽ thắng
+	- Chế độ đếm ngược: cơ bản giống với cổ điển nhưng bị giới hạn thời gian chờ
+	+ bạn sẽ thua nếu để thời gian đếm ngược kết thúc
+	+liên tục mở ô sẽ reset thời gian đếm ngược
 Bạn sẽ không bị thua  ngay trong lần mở ô đầu tiên
 
 *************XEM MÃ NGUỒN*******************

@@ -1,0 +1,8 @@
+
+Chạy file bin\Debug\minesweaper.exe để chơi game
+
+Nếu máy tính của bạn có màn hình với độ phân giải cao và đang bật chế độ Scale của Window
+-> chuột phải vào file minesweaper.exe -> Properties -> Compatibility -> Change high DPI settings
+-> tích vào Override high DPI scaling behavior -> Application -> oK -> Apply -> OK
+
+ngoài ra không phải cài đặt gì thêm
