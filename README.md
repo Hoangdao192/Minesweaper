@@ -1,6 +1,10 @@
 # Bài tập lớn môn Lập trình nâng cao - Trường đại học Công nghệ - Đại học Quốc gia Hà Nội (UET)
 
-# Minesweaper
+# Minesweaper - Dò mìn
+
+## Sử dụng
+  - C++
+  - SDL2
 
 Xem mã nguồn của game trong folder SourceCode
 Chạy game để chơi trong folder GameRelease (trong đây chứ file readme và hướng dẫn cài đặt riêng)
