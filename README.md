@@ -1,5 +1,6 @@
+# Bài tập lớn môn Lập trình nâng cao - Trường đại học Công nghệ - Đại học Quốc gia Hà Nội (UET)
+
 # Minesweaper
- Bài tập lớn - Lập trình nâng cao
 
 Xem mã nguồn của game trong folder SourceCode
 Chạy game để chơi trong folder GameRelease (trong đây chứ file readme và hướng dẫn cài đặt riêng)
